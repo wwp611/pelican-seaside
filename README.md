@@ -15,9 +15,9 @@
 
 ## 在线访问
 
-启用 GitHub Pages 后访问： https://wwp611.github.io/pelican-seaside/
+[打开海风慢慢 · 在线动画](https://wwp611.github.io/pelican-seaside/)
 
-仓库 Settings → Pages → Build and deployment → Deploy from a branch → main → / (root) → Save。
+已启用 GitHub Pages，从 `main` 分支根目录发布；后续推送会自动更新网站。
 
 ## 实现
 
